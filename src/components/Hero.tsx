@@ -37,7 +37,7 @@ const Hero: React.FC = () => {
             <div className="absolute inset-0 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-full blur-lg opacity-75 group-hover:opacity-100 transition-opacity duration-300 animate-pulse"></div>
             <div className="relative w-full h-full bg-white dark:bg-gray-800 rounded-full overflow-hidden border-4 border-white dark:border-gray-700 shadow-2xl">
               <img 
-                src="/public/IMG_20231107_171602_719.jpg" 
+                src="/IMG_20231107_171602_719.jpg" 
                 alt="Prabhmeet Singh" 
                 className="w-full h-full object-cover"
               />
